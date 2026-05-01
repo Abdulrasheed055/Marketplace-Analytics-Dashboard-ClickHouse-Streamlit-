@@ -104,6 +104,7 @@ The dataset contains marketplace transactions with the following columns:
 
 ## System Architecture
 ![Dashboard](https://github.com/Abdulrasheed055/Marketplace-Analytics-Dashboard-ClickHouse-Streamlit-/blob/main/python.png)
+![Dashboard](https://github.com/Abdulrasheed055/Marketplace-Analytics-Dashboard-ClickHouse-Streamlit-/blob/main/service.png)
 ![Dashboard](https://github.com/Abdulrasheed055/Marketplace-Analytics-Dashboard-ClickHouse-Streamlit-/blob/main/1aa.png)
 ![Dashboard](https://github.com/Abdulrasheed055/Marketplace-Analytics-Dashboard-ClickHouse-Streamlit-/blob/main/1bb.png)
 ![Dashboard](https://github.com/Abdulrasheed055/Marketplace-Analytics-Dashboard-ClickHouse-Streamlit-/blob/main/1cc.png)
