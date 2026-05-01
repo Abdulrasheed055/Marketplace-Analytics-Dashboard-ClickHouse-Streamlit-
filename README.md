@@ -17,7 +17,7 @@ To analyze marketplace transaction data in order to:
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 - **Python (Pandas)** – Data processing & analysis  
 - **ClickHouse Cloud** – High-performance analytical database  
 - **SQL** – Data querying and aggregation  
@@ -100,6 +100,13 @@ The dataset contains marketplace transactions with the following columns:
 - Time-series revenue trends
 - Dynamic filters (category, region, status)
 
+## 📌 Business Recommendations
+
+- Prioritize top-performing products (IDs: 115, 96, 104) to drive revenue growth through targeted promotions and bundling strategies.  
+- Retain high-performing sellers (IDs: 10, 29, 48, 33) by introducing incentive programs and better platform visibility.  
+- Improve underperforming categories (e.g., subscriptions) through discounts and bundled offers.  
+- Expand revenue in key regions by applying localized pricing and targeted marketing strategies.  
+- Track key KPIs (revenue, transactions, category contribution) to support continuous data-driven decision-making.  
 ---
 
 ## System Architecture
